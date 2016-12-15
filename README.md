@@ -14,8 +14,13 @@ The resources for clojure+deeplearning4j are rather thin, and the wild west of t
 
 ## Other Relevant Resources
 [deeplearning4j homepage](https://deeplearning4j.org/)
+
 [deeplearning4j Javadocs](https://deeplearning4j.org/doc/)
+
 [deeplearning4j general gitter](https://gitter.im/deeplearning4j/deeplearning4j?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [deeplearning4j tuninghelp gitter](https://gitter.im/deeplearning4j/deeplearning4j/tuninghelp)
+
 [Extensive Clojure wrapper of deeplearning4j](https://github.com/engagor/dl4clj) (a little out of date currently)
+
 
